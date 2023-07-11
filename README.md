@@ -1,2 +1,2 @@
-# ms-excel-projects
-This is my Microsoft excel project in which i have done analysis using ms excel on the Previous Data of a Vrinda Store.I filter, clean , and done data processing and visualization to get insights which helps them to take Bussiness decisions to grow their Store.
+# data-analysis-projects
+These are my Microsoft Excel projects in which I have done analysis using ms excel on the historical data to get insights and also used the historical data for future prediction. I filter, clean, and do data processing and visualization to get insights that help them to make business decisions to grow.
